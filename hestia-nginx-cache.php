@@ -62,6 +62,8 @@ class Hestia_Nginx_Cache
 		'wp_update_nav_menu',
 		'switch_theme',
 		'permalink_structure_changed',
+		'update_post_meta',
+
 	];
 
 	private function __construct()
